@@ -1,6 +1,9 @@
-# Hi there! 👋 I'm Harshith Mente
+# Hi there! 👋 I'm Harshith Mente ✨
 
 I'm a passionate MERN Stack Developer and UI/UX Designer, constantly exploring new ways to implement technology into our lives.
+
+## 🔭 What I Do
+I specialize in building robust and scalable web applications using the MERN stack - MongoDB, Express, React, and Node.js. I am experienced in building RESTful APIs and have a deep understanding of front-end development, including HTML, CSS, and JavaScript. I am also proficient in UI/UX design, using tools such as Adobe XD, Figma, and Sketch to create beautiful and functional designs.
 
 ## 🚀 My Passion
 
