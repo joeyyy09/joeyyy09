@@ -1,4 +1,4 @@
-#Hi there! 👋 I'm Harshith Mente ✨
+# Hi there! 👋 I'm Harshith Mente ✨
 
 I'm a passionate MERN Stack Developer and UI/UX Designer, constantly exploring new ways to implement technology into our lives.
 
