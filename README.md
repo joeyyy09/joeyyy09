@@ -36,7 +36,7 @@ As a UI/UX designer, I believe in creating clean, modern, and user-friendly desi
 
 ## 🤝 Let's Connect!
 
-I am always looking to collaborate and work on new projects with like-minded individuals. You can find me on [LinkedIn](https://www.linkedin.com/in/harshith-mente/) and [GitHub](https://github.com/joeyyy09).
+I am always looking to collaborate and work on new projects with like-minded individuals. You can find me on [LinkedIn](https://www.linkedin.com/in/harshith-mente-001492224/?originalSubdomain=in) and [GitHub](https://github.com/joeyyy09).
 
 ## 🌟 My Motto
 
