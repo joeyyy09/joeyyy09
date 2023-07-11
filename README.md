@@ -2,63 +2,49 @@
 
 I'm a passionate MERN Stack Developer and UI/UX Designer, constantly exploring new ways to implement technology into our lives.
 
-# 🔭 What I Do
+## 🔭 What I Do
 I specialize in building robust and scalable web applications using the MERN stack - MongoDB, Express, React, and Node.js. I am experienced in building RESTful APIs and have a deep understanding of front-end development, including HTML, CSS, and JavaScript. I am also proficient in UI/UX design, using tools such as Adobe XD, Figma, and Sketch to create beautiful and functional designs.
 
-# 🚀 My Passion
+## 🚀 My Passion
 
 I am an enthusiastic and dedicated developer, always eager to learn new things and improve my skills. I love to code and create websites and applications that are not only aesthetically pleasing but also efficient and effective.
 
-Certainly! Here's an updated version of the README with circular icons randomly clustered for a more visually appealing look:
+## 👨🏻‍💻 My Skills
 
-# My Skills
+Here are some of the technologies I'm proficient in:
 
-🚀 Welcome to my GitHub profile! Here are some of the technologies I'm proficient in:
+<p align="center"> 
+  <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python" title="Python" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(30deg);">
+  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" title="C++" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(60deg);">
+  <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" title="C" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(90deg);">
+  <img src="https://img.icons8.com/color/96/000000/latex.png" alt="LaTeX" title="LaTeX" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(120deg);">
+  <img src="https://img.icons8.com/color/7AFcZ2zirX6Y/dart.png" alt="Dart" title="Dart" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(150deg);">
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" title="CSS3" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(180deg);">
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" title="HTML5" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(210deg);">
+  <img src="https://img.icons8.com/plasticine/100/000000/react.png" alt="React" title="React" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(240deg);">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" title="Tailwind CSS" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(270deg);">
+  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg" alt="Three.js" title="Three.js" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(300deg);">
+  <img src="https://www.emailjs.com/logo.png" alt="EmailJS" title="EmailJS" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(330deg);">
+  <img src="https://camo.githubusercontent.com/6686b9ef0e21e13c9e7c846340303765c0f36e40a0490bcad453ea9d0d433ea0/68747470733a2f2f7777772e6d656d656e746f746563682e696e2f6173736574732f696d616765732f69636f6e732f657870726573732e706e67" alt="FastAPI" title="FastAPI" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(360deg);">
+  <img src="https://img.icons8.com/color/24895/npm.png" alt="npm" title="npm" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(390deg);">
+  <img src="https://user-images.githubusercontent.com/99802392/250141005-357f8634-c058-4237-a923-d15b809622c3.png" alt="MySQL" title="MySQL" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(420deg);">
+  <img src="https://img.icons8.com/color/96/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(450deg);">
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" title="MongoDB" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(480deg);">
+  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" title="Netlify" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(510deg);">
+  <img src="https://img.icons8.com/color/96/000000/linux--v1.png" alt="Linux" title="Linux" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(540deg);">
+  <img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" title="Bash" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(570deg);">
+  <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" alt="Ubuntu" title="Ubuntu" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(600deg);">
+  <img src="https://img.icons8.com/doodle/96/000000/canva.png" alt="Canva" title="Canva" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(630deg);">
+  <img src="https://img.icons8.com/color/13677/adobe-photoshop.png" alt="Photoshop" title="Photoshop" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(660deg);">
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" title="Node.js" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(120deg);">
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" title="JavaScript" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(180deg);">
+  <img src="https://img.icons8.com/color/96/000000/typescript.png" alt="TypeScript" title="TypeScript" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(210deg);">
+  <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" title="Git" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(270deg);">
+  <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase" title="Firebase" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(330deg);">
+  <img src="https://img.icons8.com/color/96/000000/figma.png" alt="Figma" title="Figma" style="border-radius: 50%; width: 50px; height: 50px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotateZ(420deg);">
+</p>
 
-## Programming Languages
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" title="MongoDB" />
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express" title="Express" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React" title="React" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" title="Node.js" />
-  <img src="https://img.shields.io/badge/-HTML/CSS-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML/CSS" title="HTML/CSS" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" title="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" title="TypeScript" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" title="Dart" />
-</div>
-
-## Version Control
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" title="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" title="GitHub" />
-</div>
-
-## Frameworks and Libraries
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" title="Firebase" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" title="Next.js" />
-</div>
-
-## Operating Systems
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" title="Linux" />
-</div>
-
-## Design Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" title="Figma" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" alt="Canva" title="Canva" />
-  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=white&style=for-the-badge" alt="Photoshop" title="Photoshop" />
-</div>
-
-Feel free to explore my repositories to see the projects I've been working on. If you have any questions or would like to collaborate, please don't hesitate to get in touch! 🤝😊
-
-Note: The circular icons have been clustered using the `align="center"` attribute for a centered alignment.
 
 ## 🎨 My Design Aesthetic
 
