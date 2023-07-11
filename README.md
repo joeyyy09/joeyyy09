@@ -9,9 +9,9 @@ I specialize in building robust and scalable web applications using the MERN sta
 
 I am an enthusiastic and dedicated developer, always eager to learn new things and improve my skills. I love to code and create websites and applications that are not only aesthetically pleasing but also efficient and effective.
 
-# Computer Skills
+# My Skills
 
-🚀 Welcome to my GitHub profile! Here are some of the technologies I'm proficient in:
+🚀 Here are some of the technologies I'm proficient in:
 
 ## Programming Languages
 
