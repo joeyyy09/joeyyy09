@@ -1,16 +1,18 @@
-# Hi there!👋
-# Harshith Mente here ✨
+# Hey, I'm Harshith Mente ✨
 
-I'm a passionate Full Stack Developer and UI/UX Designer, constantly exploring new ways to implement technology into our lives.
+I'm a Full Stack Developer with a knack for solving complex problems through innovative technology solutions. Whether it’s building scalable web apps, contributing to open-source, or architecting backend systems, I’m always eager to push the limits.
+
+## 🚀 About Me
+I'm currently pursuing my Integrated M.Tech in Information Technology at ABV-IIITM Gwalior, and I'm actively involved in open-source development, especially around distributed tracing, monitoring systems, and web development.
+I’ve had the chance to contribute to some awesome projects, including Jaeger through the CNCF LFX Mentorship, where I worked on Kafka integration and enhanced Jaeger’s telemetry capabilities.
 
 ## 🔭 What I Do
 I specialize in building robust and scalable web applications using the MERN stack - MongoDB, Express, React, and Node.js. I am experienced in building RESTful APIs and have a deep understanding of front-end development, including HTML, CSS, and JavaScript. I am also proficient in UI/UX design, using tools such as Adobe XD, Figma, and Sketch to create beautiful and functional designs.
 
-## 🚀 My Passion
+## 🚀 What Drives Me
+I'm passionate about tech that makes an impact. Whether it's through scalable architectures or well-designed user interfaces, I believe in building solutions that matter. I love collaborating on open-source projects and constantly learning new ways to improve performance and security.
 
-I am an enthusiastic and dedicated developer, always eager to learn new things and improve my skills. I love to code and create websites and applications that are not only aesthetically pleasing but also efficient and effective.
-
-## 👨🏻‍💻 My Skills
+## 👨🏻‍💻 Technologies I Work With
 
 Here are some of the technologies I'm proficient in:
 
@@ -43,14 +45,13 @@ Here are some of the technologies I'm proficient in:
 
 
 
-## 🎨 My Design Aesthetic
 
-As a UI/UX designer, I believe in creating clean, modern, and user-friendly designs that elevate the user experience. My designs are centered around user needs and are created with a focus on accessibility and inclusivity.
+## 🌟 Fun Fact
+
+I’m a strong believer in the motto:
+"Learn by doing. Create by building."
 
 ## 🤝 Let's Connect!
 
 I am always looking to collaborate and work on new projects with like-minded individuals. You can find me on [LinkedIn](https://www.linkedin.com/in/harshith-mente-001492224/?originalSubdomain=in) and [GitHub](https://github.com/joeyyy09).
 
-## 🌟 My Motto
-
-My motto is simple: "Passion, creativity, and hard work can take you anywhere." With a love for tech and a drive to succeed, I am committed to achieving my goals and making a difference in the world.
